@@ -1,0 +1,2 @@
+[do]
+digital_ocean ansible_ssh_host=larbolcafe.com ansible_user=t321
